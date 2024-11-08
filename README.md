@@ -1,0 +1,1 @@
+This codeis a Python program that implements a solution to the Weighted Job Scheduling problem using Dynamic Programming. In this problem,we are given a set of jobs, where each job has a start time, finish time, and a profit. The objective is to select a subset of non-overlapping jobs such that the total profit is maximized.
